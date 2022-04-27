@@ -1,10 +1,9 @@
 # Group-33-First-Capstone-Project
 Group 33
-Abraham Bage, [4/27/2022 2:21 PM]
-Bage Abraham Foto
+Bage Abraham Foto (Team Lead)
 SH-IT-0058622
 
-Lawal Fawaz Olaitan
+Lawal Fawaz Olaitan (Assistant Team Lead)
 SH-IT-0031797
 
 Obed Badu
