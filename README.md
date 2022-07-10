@@ -40,7 +40,7 @@ Lawal Fawaz and Obed Badu started the project and stop at the place that says ge
 
 Olagunju Ayomide worked on the part that has the access your files anywhere, security you can trust, real time collaboration and store any type of file.
 
-Augustine started from the next picture after that till see how fylo works, then stop there.
+Augustine started from the next picture after that till see how fylo works.
 
 Temitope Ajayi started the testimonial and stop and the Satish patel side.
 
