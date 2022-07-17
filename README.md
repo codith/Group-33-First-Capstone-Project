@@ -5,7 +5,7 @@
 
 # Group Members
 
-Bage Abraham Foto (Team Lead)
+Bage Abraham (Team Lead)
 
 Lawal Fawaz Olaitan (Assistant Team Lead)
 SH-IT-0031797
@@ -56,4 +56,3 @@ Janefrances Chukwu worked on the footer part of the project, i.e the last part o
 Abraham Bage collected the code and merged everything together.
 
 Everything was thoroughly edited after the merging before submitting to the mentor by the team lead.
-
